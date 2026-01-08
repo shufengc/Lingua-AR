@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lingua-AR
 
 ## Portfolio Notice
@@ -8,6 +9,8 @@ Original source (GitLab): https://gitlab.com/jhinpan/eecs498-project-3
 This snapshot excludes certain third-party binaries/models (e.g., OpenCVForUnity) due to file size and potential licensing restrictions.  
 See `DEPENDENCIES.md` for how to restore missing dependencies if you want to build/run the full project.
 
+=======
+>>>>>>> d98e31a (Initial public snapshot (portfolio version))
 ## Team Roster
 Team Lingua AR is composed of 6 students:
 - **Jin Pan**:
