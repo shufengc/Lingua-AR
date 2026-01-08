@@ -1,3 +1,11 @@
+# Lingua-AR
+
+## Portfolio Notice
+
+This repository is a portfolio snapshot of a team course project (EECS 498 Project 3).  
+It excludes certain third-party binaries/models (e.g., OpenCVForUnity) due to file size and potential licensing restrictions.  
+See `DEPENDENCIES.md` for how to restore missing dependencies if you want to build/run the full project.
+
 ## Team Roster
 Team Lingua AR is composed of 6 students:
 - **Jin Pan**:
