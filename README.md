@@ -2,7 +2,7 @@
 
 ## Portfolio Notice
 
-This repository is a portfolio snapshot of a team course project (EECS 498 Project 3).  
+This repository is a portfolio snapshot of a team course project for VE441 App Development for Entrepreneurs, taught by Prof. Yibo Pi at the UM-SJTU Joint Institute in Summer 2024.  
 Original source (GitLab): https://gitlab.com/jhinpan/eecs498-project-3
 
 This snapshot excludes certain third-party binaries/models (e.g., OpenCVForUnity) due to file size and potential licensing restrictions.  
